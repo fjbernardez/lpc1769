@@ -1,0 +1,6 @@
+My_Uart.c:5:6:UART1_IRQHandler	16	static
+My_Uart.c:56:6:UART1_PushRx	16	static
+My_Uart.c:63:9:UART1_PopTx	16	static
+My_Uart.c:79:9:UART1_PopRx	16	static
+My_Uart.c:93:6:UART1_PushTx	16	static
+My_Uart.c:107:6:UART1_SendData	24	static

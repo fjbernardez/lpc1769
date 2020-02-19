@@ -1,0 +1,5 @@
+init.c:3:6:init	8	static
+init.c:13:6:initGPIO	8	static
+init.c:54:6:InitSystick	4	static
+init.c:64:6:TIMER0_Init	4	static
+init.c:107:6:UART1_Init	24	static

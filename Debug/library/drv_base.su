@@ -1,0 +1,4 @@
+drv_base.c:4:7:SetPINSEL	16	static
+drv_base.c:19:6:SetDIR	32	static
+drv_base.c:43:6:SetPIN	24	static
+drv_base.c:57:9:GetPIN	24	static

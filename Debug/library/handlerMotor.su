@@ -1,0 +1,13 @@
+handlerMotor.c:6:6:servoMotor	16	static
+handlerMotor.c:22:6:izquierdaCC	8	static
+handlerMotor.c:29:6:derechaCC	8	static
+handlerMotor.c:37:6:avanzar	8	static
+handlerMotor.c:47:6:retroceder	8	static
+handlerMotor.c:57:6:frenar	8	static
+handlerMotor.c:67:6:motorDerechoAvanzar	8	static
+handlerMotor.c:77:6:motorDerechoRetroceder	8	static
+handlerMotor.c:87:6:motorDerechoFrenar	8	static
+handlerMotor.c:99:6:motorIzquierdoAvanzar	8	static
+handlerMotor.c:109:6:motorIzquierdoRetroceder	8	static
+handlerMotor.c:119:6:motorIzquierdoFrenar	8	static
+handlerMotor.c:129:6:notCommand	8	static
